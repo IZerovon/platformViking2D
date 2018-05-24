@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e3a95c5ac7d69b44e810efb40a040070
+timeCreated: 1511503956
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Magnolia Script
+  fontNames:
+  - Magnolia Script
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
