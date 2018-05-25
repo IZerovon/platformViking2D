@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 14
-  productGUID: 00000000000000000000000000000000
+  productGUID: 8057d87b37d61cb45a70048cd22367a3
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   defaultScreenOrientation: 3
@@ -754,7 +754,7 @@ PlayerSettings:
   facebookSdkVersion: 7.9.1
   apiCompatibilityLevel: 2
   cloudProjectId: fcd894d0-3b55-405d-aeec-9f4958be8485
-  projectName: CorgiEngine
+  projectName: Platform Tutorial
   organizationId: mrvokan
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
