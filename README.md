@@ -1,12 +1,5 @@
 # platformViking2D
 
-# CorgiEngine
-
-[Unity Asset Store page](https://assetstore.unity.com/packages/templates/systems/corgi-engine-2d-2-5d-platformer-26617)
-
-[Dokumentasjon -> Introduction to the Corgi Engine](http://corgi-engine-docs.moremountains.com/)
-
-
 # // oldAssets
 
 Grunnlegende platformspill med grappling hook system.
